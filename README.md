@@ -25,9 +25,9 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 # Projects
 | Name | Description |
 | ----- | ---------- |
-| [`Bee3`] | A multipurpose discord bot |
-| [`Zhat`] | A chatapp with [`Socket.io`] |
-| [`Repository's`] | Other projects on my repositorys |
+| https://github.com/Galaxy-31/Peminjaman | Peminjaman Laptop dan HP|
+| https://github.com/Galaxy-31/UKK-Digital-Library| Perpustakaan Digital |
+| https://github.com/Galaxy-31/UKK-Digital-Library | Point Of Sale|
 
 # Links
 | Title | Description |
