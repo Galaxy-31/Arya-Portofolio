@@ -25,9 +25,9 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 # Projects
 | Name | Description |
 | ----- | ---------- |
-| https://github.com/Galaxy-31/Peminjaman | Peminjaman Laptop dan HP|
-| https://github.com/Galaxy-31/UKK-Digital-Library| Perpustakaan Digital |
-| https://github.com/Galaxy-31/UKK-Digital-Library | Point Of Sale|
+| [`Peminjaman Barang`]: | Peminjaman Laptop dan HP|
+| [`Digital Library`]:| Perpustakaan Digital |
+| [`MY POS`]: | Point Of Sale|
 
 # Links
 | Title | Description |
@@ -69,5 +69,8 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 [`Portfolio`]:            https://.xyz
 [`Instagram`]:            https://instagram.com/arya_devitra
 [`Linkedin`]:             https://www.linkedin.com/in/arya-devitra-3506b2259/
-[`aryadevitra97@gmail.com`]:  aryadevitra97@gmail.com
-[`Repository's`]:         https://github.com/Galaxy-31?tab=repositories
+[`aryadevitra97@gmail.com`]:  aryadevitra97@gmail.com/
+[`Repository's`]:         https://github.com/Galaxy-31?tab=repositories/
+[`MY POS`]:               https://github.com/Galaxy-31/My-POS/
+[`Peminjaman Barang`]:    https://github.com/Galaxy-31/Peminjaman/
+[`Digital Library`]:      https://github.com/Galaxy-31/UKK-Digital-Library/
