@@ -1,30 +1,26 @@
-<img src="https://komarev.com/ghpvc/?username=Vins2106" alt="profile views" align="center" loading="lazy" /> [`Use this template`]
 
-# I'm Vincent Saerang 👋
-- web developer
+# I'm Arya Developer 👋
+- Fullstack developer
 - student
-- bug enjoyer 🤦
+
 
 # About me
-im from Indonesia, manado. i’ve work as web developer for 1 year. my full name is Vincent Devon Saerang, 14 years old
-- start coding in `2020`
-- my first program using [`JavaScript`]
+I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra Ruhiyat, 18 years old
+- start coding in `2021`
+- my first program uses [`PHP`]
 
 # Skills & Tools
 | Skills | Tools |
 | ----- | ---------- |
 | [`JavaScript`]  | [`Figma`] |
-| [`HTML`]        | [`Sublime Text 3 & 4`]  |
-| [`CSS`]         | [`Visual Studio Code`]  |
+| [`HTML`]        | [`Visual Studio Code`]  |
+| [`CSS`]         | [`Github`]  |
 | [`Bootstrap`]   | [`Chrome`]  |
-| [`Jquery`]      | [`Glitch`]  |
-| [`Express.js`]  | [`Replit`]  |
-| [`MongoDB`]     |  |
-| [`Socket.io`]   | | 
-| [`Node.js`]     | |
-| [`React.js`]  | |
-| [`Next.Js`] | |
-| [`TailwindCSS`] | |
+| [`Jquery`]      | [`Replit`]  |
+| [`PHP`]  |      | [`MySQL`]  |
+| [`Laravel`]     |  |
+| [`Python`]   | | 
+
 
 # Projects
 | Name | Description |
@@ -39,7 +35,7 @@ im from Indonesia, manado. i’ve work as web developer for 1 year. my full name
 | [`Portfolio`] | my personal website |
 | [`Instagram`] | my instagram |
 | [`Twitter`] | my twitter |
-| [`vins25165@gmail.com`] | contact me via Gmail |
+| [`aryadevitra97@gmail.com`] | contact me via Gmail |
 
 # My github statistics
 <table>
