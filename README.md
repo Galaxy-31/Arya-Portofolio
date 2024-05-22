@@ -62,16 +62,12 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 [`Laravel`]:              https://laravel.com/
 [`PHP`]:                  https://www.php.net/
 [`Figma`]:                https://figma.com/
-[`Sublime Text 3 & 4`]:   https://www.sublimetext.com/
 [`Visual Studio Code`]:   https://code.visualstudio.com/
 [`Chrome`]:               https://www.google.co.id/chrome/
 [`Github`]:               https://glitch.com/
 [`Replit`]:               https://replit.com
 [`Portfolio`]:            https://.xyz
 [`Instagram`]:            https://instagram.com/arya_devitra
-[`Linkedin`]:              https://twitter.com/Vins2106_
-[`vins25165@gmail.com`]:  vins25165@gmail.com
-[`Bee3`]:                 https://github.com/Bee3-Team/Bee3
-[`Zhat`]:                 https://github.com/Vins2106/zhat.cf
-[`Repository's`]:         https://github.com/Vins2106?tab=repositories
-[`Use this template`]:    https://github.com/Vins2106/Vins2106/generate
+[`Linkedin`]:             https://www.linkedin.com/in/arya-devitra-3506b2259/
+[`aryadevitra97@gmail.com`]:  aryadevitra97@gmail.com
+[`Repository's`]:         https://github.com/Galaxy-31/Arya-Portofolio
