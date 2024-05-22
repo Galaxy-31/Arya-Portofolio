@@ -57,20 +57,19 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 [`Bootstrap`]:            https://getbootstrap.com/
 [`Jquery`]:               https://jquery.com/
 [`Express.js`]:           https://expressjs.com/
-[`MongoDB`]:              https://www.mongodb.com/
-[`React.js`]:             https://reactjs.org/
-[`Next.js`]:              https://nextjs.org
-[`Socket.io`]:            https://socket.io/
-[`Node.js`]:              https://nodejs.org/
+[`Python`]:               https://www.python.org/
+[`Github`]:               https://github.com/
+[`Laravel`]:              https://laravel.com/
+[`PHP`]:                  https://www.php.net/
 [`Figma`]:                https://figma.com/
 [`Sublime Text 3 & 4`]:   https://www.sublimetext.com/
 [`Visual Studio Code`]:   https://code.visualstudio.com/
 [`Chrome`]:               https://www.google.co.id/chrome/
-[`Glitch`]:               https://glitch.com/
+[`Github`]:               https://glitch.com/
 [`Replit`]:               https://replit.com
-[`Portfolio`]:            https://vinsdev.xyz
-[`Instagram`]:            https://instagram.com/Vins2106
-[`Twitter`]:              https://twitter.com/Vins2106_
+[`Portfolio`]:            https://.xyz
+[`Instagram`]:            https://instagram.com/arya_devitra
+[`Linkedin`]:              https://twitter.com/Vins2106_
 [`vins25165@gmail.com`]:  vins25165@gmail.com
 [`Bee3`]:                 https://github.com/Bee3-Team/Bee3
 [`Zhat`]:                 https://github.com/Vins2106/zhat.cf
