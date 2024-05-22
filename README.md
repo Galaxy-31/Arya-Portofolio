@@ -33,15 +33,15 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 | Title | Description |
 | ----- | -------- |
 | [`Portfolio`] | my personal website |
-| [`Instagram`] | my instagram |
-| [`Twitter`] | my twitter |
+| [`Instagram`] | my Instagram |
+| [`Linkedin`] | my Linkedin |
 | [`aryadevitra97@gmail.com`] | contact me via Gmail |
 
 # My github statistics
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Galaxy31&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Galaxy-31&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&hide_title=true&count_private=true" />
     </td>
     <td>
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-31&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&layout=compact">
