@@ -41,10 +41,10 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Vins2106&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Galaxy31&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&hide_title=true&count_private=true" />
     </td>
     <td>
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vins2106&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&layout=compact">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-31&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&layout=compact">
     </td>
   </tr>
 </table>
@@ -70,4 +70,4 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 [`Instagram`]:            https://instagram.com/arya_devitra
 [`Linkedin`]:             https://www.linkedin.com/in/arya-devitra-3506b2259/
 [`aryadevitra97@gmail.com`]:  aryadevitra97@gmail.com
-[`Repository's`]:         https://github.com/Galaxy-31/Arya-Portofolio
+[`Repository's`]:         https://github.com/Galaxy-31?tab=repositories
