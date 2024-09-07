@@ -28,6 +28,9 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 | [`Peminjaman Barang`]: | Peminjaman Laptop dan HP|
 | [`Digital Library`]:| Perpustakaan Digital |
 | [`MY POS`]: | Point Of Sale|
+| [`Mitra Reklame`]: | Ecommerce |
+| [`Mitra Reklame`]: | Scan QR Code|
+| [`Harokah Barokah`]: | Ecommerce|
 
 # Links
 | Title | Description |
@@ -74,3 +77,9 @@ I'm from Indonesia, Bogor. I am a graduate in 2024. My full name is Aria Devitra
 [`MY POS`]:               https://github.com/Galaxy-31/My-POS/
 [`Peminjaman Barang`]:    https://github.com/Galaxy-31/Peminjaman/
 [`Digital Library`]:      https://github.com/Galaxy-31/UKK-Digital-Library/
+[`Mitra Reklame`]:        https://github.com/Galaxy-31/Mitra-Offline/
+[`Mitra Reklame`]:        https://github.com/Galaxy-31/Mitra-Offline/
+[`Harokah Barokah`]:      https://github.com/Galaxy-31/Harokah-Barokah/
+
+
+
